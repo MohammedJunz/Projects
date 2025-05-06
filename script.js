@@ -7,3 +7,4 @@ if (git !== ""){
     console.log("There was a git here");
     
 }
+// Pull testing from cloud
